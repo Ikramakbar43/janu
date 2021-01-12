@@ -53,7 +53,7 @@ logo = """ I̴̪̰̭̞͍͌̐͌ķ̶̧̆̈́ṙ̵̡̝͎̪̼̬̘͉̔̃̾̐̓̈́͠a̵�
 \033[1;96mAuthor  \033[1;93m: \033[1;92mwhatsApp +923082839268
 \033[1;96mInstagram \033[1;93m: \033[1;Flow Ikram_Akbar64
 \033[1;96mFacebook  \033[1;93m: \033[1; ikramakbar64
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ikramakbar63/janu
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ikramakbar43/janu
 \033[1;91m======================================="""
 
 def tik():
@@ -77,7 +77,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mwhatspp +923082839268
 \033[1;96mInstagram \033[1;93m: \033[1;92mikram_Akbar64
 \033[1;96mFacebook  \033[1;93m: \033[1;92m ikramakbar64
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ikramakbar63/janu
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ikramakbar43/janu
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
